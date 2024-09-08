@@ -9,5 +9,5 @@ A passionate data scientist, working with machine learning and artificial intell
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicola-rapacchiani)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/nicola-rapacchiani-a7b1a7164/)
 
