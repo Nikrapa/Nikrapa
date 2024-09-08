@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm Nicola Rapacchiani
 
-<!--
-**Nikrapa/Nikrapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate data scientist, working with machine learning and artificial intelligence to transform data into impactful insights.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning and studying advanced NLP techniques and AI
+- ✍️ I regularly work on projects involving Python, SQL, and AWS for data-driven solutions
+- 📫 How to reach me: [nicolarapacchiani@gmail.com](mailto:nicolarapacchiani@gmail.com)
+- 📝 Know more about my experiences [CV](your-cv-link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicola-rapacchiani)
+
